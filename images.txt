@@ -4,9 +4,4 @@ nginx
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#alpine
-#node:22.10.0
-#ubuntu
-centos
-almalinux:9.8
-debian
+node:22.12.0-alpine
